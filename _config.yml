@@ -1,6 +1,17 @@
 theme: jekyll-theme-minimal
-title: John Fink
-email: johnfink@u.boisestate.edu
-url: https://jtfink.github.io/
-description:
 layout: default
+# Setup
+title:               John Fink
+tagline:             My Personal Website
+description:         
+url:                 https://jtfink.github.io/
+baseurl:             ''
+paginate:            5
+
+plugins:          [jekyll-paginate]
+
+# About/contact
+author:
+  name:              John Fink
+  url:               https://jtfink.github.io/
+  email:             johnfink@u.boisestate.edu
