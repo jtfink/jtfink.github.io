@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: John Fink
-description: PhD student at Boise State University
+email: johnfink@u.boisestate.edu
+url: https://jtfink.github.io/
+description:
 layout: default
